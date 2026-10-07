@@ -22,11 +22,11 @@
                 <ul class="dropdown-menu bg-menu">
                     <li><a class="dropdown-item" href="../services.php">Todo</a></li>
                     <li><hr class="dropdown-divider"></li>
+                    <li><a class="dropdown-item" href="../services.php#peluches">Peluches</a></li>
+                    <li><a class="dropdown-item" href="../services.php#tejidos">Tejidos</a></li>
+                    <li><a class="dropdown-item" href="../services.php#ilustraciones">Ilustraciones</a></li>
                     <li><a class="dropdown-item" href="../services.php#stickers">Stickers</a></li>
                     <li><a class="dropdown-item" href="../services.php#posters">Posters</a></li>
-                    <li><a class="dropdown-item" href="../services.php#ilustraciones">Ilustraciones</a></li>
-                    <li><a class="dropdown-item" href="../services.php#tejidos">Tejidos</a></li>
-                    <li><a class="dropdown-item" href="../services.php#peluches">Peluches</a></li>
                 </ul>
                 </li>
             </ul>
